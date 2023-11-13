@@ -162,6 +162,9 @@ body{
     align-items: center;
     color: white;
 }
+.avaliacao p{
+    display: flex;
+}
 .info-local{
     color: white;
     line-height: 0;
